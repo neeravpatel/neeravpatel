@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Neerav Patel<br><br>Welcome to my GitHub!<br><br>I'm a software developer passionate about building clean, efficient, impactful applications. I enjoy turning ideas into reality through code and continuously learning new technologies to improve my craft.<br><br>📫 Get in Touch<br>Feel free to contact me here or reach out on LinkedIn / nickpatel768@outlook.com!
+👋 Hi, I'm Neerav Patel<br><br>Welcome to my GitHub!<br><br>I'm a software developer passionate about building clean, efficient, impactful applications. I enjoy turning ideas into reality through code and continuously learning new technologies to improve my craft.<br><br>📫 Get in Touch<br>Feel free to contact me here or reach out on my Socials / nickpatel768@outlook.com!
 
 
 ## 🌐 Socials:
